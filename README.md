@@ -1,3 +1,5 @@
+**Grounded, verifiable RAG chatbot (Llama 3.2 + Pinecone) built for high-stakes applications in healthcare and legal.**
+
 # Retrieval-Augmented Generation (RAG) using Open-Source Tools
 
 ## Overview of the Project
